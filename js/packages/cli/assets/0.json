@@ -1,0 +1,27 @@
+  {
+    "name": "png0",
+    "symbol": "",
+    "description": "testing dreamland",
+    "seller_fee_basis_points": 5,
+    "image": "https://www.arweave.net/abcd5678?ext=png",
+    "external_url": "google.com",
+    "collection": {
+        "name": "Dreamland Test",
+        "family": "Dreamland"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/abcd5678?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image/png",
+        "creators": [
+            {
+                "address": "BMYqZxZy2eRuqxEEdQToGhaUkhhycqBWFaJNyNRX5cGk",
+                "share": 100
+            }
+        ]
+    }
+}
